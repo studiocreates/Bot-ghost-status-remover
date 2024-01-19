@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["👑 I am RTX","Spotify","Youtube","SUBSCRIBE❤️","THANKS 🌇"];
+const statusMessages = ["👑 Captivating Relab","📜 Watching studio stress","🛒 Enjoying Life","📲 Welcoming Relab's members","⭐ Being a good bot"];
 
 
 let currentIndex = 0;
